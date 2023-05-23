@@ -240,8 +240,8 @@
  AUS_progressivism_DEF:0 "Austria"
  AUS_liberalism:0 "Austria"
  AUS_liberalism_DEF:0 "Austria"
- AUS_conservatism:0 "Austria"
- AUS_conservatism_DEF:0 "Austria"
+ AUS_conservatism:0 "Austrian Empire"
+ AUS_conservatism_DEF:0 "the Austrian Empire"
  AUS_republicanism:0 "Austria"
  AUS_republicanism_DEF:0 "Austria"
  AUS_authoritarianism:0 "Austria"
@@ -1170,34 +1170,6 @@
  CZE_socialism_ADJ:0 "Czech"
  CZE_centralism_ADJ:0 "Czech"
  CZE_republicanism_ADJ:0 "Czech"
- 
- 
- #Dutch Congo
- DCG_ultranationalism:0 "Dutch Congo Governorate"
- DCG_ultranationalism_DEF:0 "Dutch Congo Governorate"
- DCG_conservatism:0 "Dutch Congo Governorate"
- DCG_conservatism_DEF:0 "Dutch Congo Governorate"
- DCG_authoritarianism:0 "Congo Free State"
- DCG_authoritarianism_DEF:0 "the Congo Free State"
- DCG_centralism:0 "Dutch Congo Governorate"
- DCG_centralism_DEF:0 "Dutch Congo Governorate"
- DCG_ultranationalism_ADJ:0 "Dutch"
- DCG_conservatism_ADJ:0 "Dutch"
- DCG_authoritarianism_ADJ:0 "Dutch"
- DCG_centralism_ADJ:0 "Dutch"
- DCG_socialism:0 "Dutch Congo Governorate"
- DCG_socialism_DEF:0 "Dutch Congo Governorate"
- DCG_socialism_ADJ:0 "Dutch"
- DCG_republicanism:0 "Dutch Congo Governorate"
- DCG_republicanism_DEF:0 "Dutch Congo Governorate"
- DCG_republicanism_ADJ:0 "Dutch"
- DCG_liberalism:0 "Dutch Congo Governorate"
- DCG_liberalism_DEF:0 "Dutch Congo Governorate"
- DCG_liberalism_ADJ:0 "Dutch"
- DCG_progressivism:0 "Dutch Congo Governorate"
- DCG_progressivism_DEF:0 "Dutch Congo Governorate"
- DCG_progressivism_ADJ:0 "Dutch"
- 
  
  #Dutch India
  DEI_centralism:0 "Dutch India"
@@ -3382,7 +3354,7 @@
  RAJ_ultranationalism_ADJ:0 "Indian"
  
  #Rhodanic
- RHI_ultranationalism:0 "Valais"
+ RHD_ultranationalism:0 "Valais"
  RHD_ultranationalism_DEF:0 "the Republic of Valais"
  RHD_conservatism:0 "Valais"
  RHD_conservatism_DEF:0 "the Republic of Valais"
@@ -3489,8 +3461,8 @@
  ROM_ultranationalism_DEF:0 "The Kingdom of Romania"
  ROM_liberalism:0 "Romania"
  ROM_liberalism_DEF:0 "Romania"
- ROM_conservatism:0 "Romania"
- ROM_conservatism_DEF:0 "Romania"
+ ROM_conservatism:0 "Kingdom of Romania"
+ ROM_conservatism_DEF:0 "the Kingdom of Romania"
  ROM_authoritarianism:0 "Kingdom of Romania"
  ROM_authoritarianism_DEF:0 "The Kingdom of Romania"
  ROM_centralism:0 "Romanian People's Republic"
@@ -4045,13 +4017,13 @@
  
  
  #Turkey
- TUR_ultranationalism:0 "Ottoman Empire"
+ #TUR_ultranationalism:0 "Ottoman Empire"
  TUR_ultranationalism_DEF:0 "The Ottoman Empire"
  TUR_conservatism:0 "Ottoman Empire"
  TUR_conservatism_DEF:0 "The Ottoman Empire"
  TUR_authoritarianism:0 "Ottoman Empire"
  TUR_authoritarianism_DEF:0 "The Ottoman Empire"
- TUR_liberalism:0 "Ottoman Empire"
+ #TUR_liberalism:0 "Ottoman Empire" # loc key collision
  TUR_liberalism_DEF:0 "The Ottoman Empire"
  TUR_centralism:0 "Ottoman Empire"
  TUR_centralism_DEF:0 "The Ottoman Empire"
@@ -4593,282 +4565,6 @@
  ZAN_republicanism_ADJ:0 "Zanzibari"
  ZAN_centralism_ADJ:0 "Zanzibari"
  ZAN_socialism_ADJ:0 "Zanzibari"
- 
- SWE_liberalism:0 "Kingdom of Sweden"
- SWE_liberalism_DEF:0 "The Kingdom of Sweden"
- SWE_liberalism_ADJ:0 "Swedish"
- SWE_progressivism:0 "Kingdom of Sweden"
- SWE_progressivism_DEF:0 "The Kingdom of Sweden"
- SWE_progressivism_ADJ:0 "Swedish"
- 
- FRA_liberalism:0 "French Republic"
- FRA_liberalism_DEF:0 "The French Republic"
- FRA_liberalism_ADJ:0 "French"
- 
- LUX_liberalism:0 "Luxembourg"
- LUX_liberalism_DEF:0 "Luxembourg"
- LUX_liberalism_ADJ:0 "Luxembourg"
- 
- BEL_liberalism:0 "Flanders"
- BEL_liberalism_DEF:0 "Flanders"
- BEL_liberalism_ADJ:0 "Flemmish"
- 
- HOL_liberalism:0 "Netherlands"
- HOL_liberalism_DEF:0 "The Netherlands"
- HOL_liberalism_ADJ:0 "Netherlander"
- 
- AUS_liberalism:0 "Austria"
- AUS_liberalism_DEF:0 "Austria"
- AUS_liberalism_ADJ:0 "Austrian"
- 
- LIT_liberalism:0 "Lithuania"
- LIT_liberalism_DEF:0 "Lithuania"
- LIT_liberalism_ADJ:0 "Lithuanian"
- 
- EST_liberalism:0 "Republic of Estonia"
- EST_liberalism_DEF:0 "The Republic of Estonia"
- EST_liberalism_ADJ:0 "Estonian"
- 
- LAT_liberalism:0 "Republic of Latvia"
- LAT_liberalism_DEF:0 "The Republic of Latvia"
- LAT_liberalism_ADJ:0 "Latvian"
- 
- SPR_liberalism:0 "Spanish Republic"
- SPR_liberalism_DEF:0 "The Spanish Republic"
- SPR_liberalism_ADJ:0 "Spanish"
- 
- ITA_liberalism:0 "Italian Republic"
- ITA_liberalism_DEF:0 "The Republic of Italy"
- ITA_liberalism_ADJ:0 "Italian"
- 
- ROM_liberalism:0 "Kingdom of Romania"
- ROM_liberalism_DEF:0 "The Kingdom of Romania"
- ROM_liberalism_ADJ:0 "Romanian"
- 
- YUG_liberalism:0 "Yugoslavian Confederation"
- YUG_liberalism_DEF:0 "The Yugoslavian Confederation"
- YUG_liberalism_ADJ:0 "Yugoslavian"
- 
- SWI_liberalism:0 "Switzerland"
- SWI_liberalism_DEF:0 "Switzerland"
- SWI_liberalism_ADJ:0 "Swiss"
- 
- TUR_liberalism:0 "Republic of Turkey"
- TUR_liberalism_DEF:0 "The Republic of Turkey"
- TUR_liberalism_ADJ:0 "Turkish"
- 
- GRE_liberalism:0 "Hellenic Republic"
- GRE_liberalism_DEF:0 "The Hellenic Republic"
- GRE_liberalism_ADJ:0 "Greek"
- 
- ALB_liberalism:0 "Republic of Albania"
- ALB_liberalism_DEF:0 "The Republic of Albania"
- ALB_liberalism_ADJ:0 "Albanian"
- 
- NOR_liberalism:0 "Norway"
- NOR_liberalism_DEF:0 "Norway"
- NOR_liberalism_ADJ:0 "Norwegian"
- 
- DEN_liberalism:0 "Kingdom of Denmark"
- DEN_liberalism_DEF:0 "The Kingdom of Denmark"
- DEN_liberalism_ADJ:0 "Danish"
- 
- BUL_liberalism:0 "Bulgaria"
- BUL_liberalism_DEF:0 "Bulgaria"
- BUL_liberalism_ADJ:0 "Bulgarian"
- 
- POR_liberalism:0 "Portugal"
- POR_liberalism_DEF:0 "Portugal"
- POR_liberalism_ADJ:0 "Portuguese"
- 
- FIN_liberalism:0 "Republic of Finland"
- FIN_liberalism_DEF:0 "The Republic of Finland"
- FIN_liberalism_ADJ:0 "Finnish"
- 
- IRE_liberalism:0 "Ireland"
- IRE_liberalism_DEF:0 "Ireland"
- IRE_liberalism_ADJ:0 "Irish"
- 
- HUN_liberalism:0 "Republic of Hungary"
- HUN_liberalism_DEF:0 "The Republic of Hungary"
- HUN_liberalism_ADJ:0 "Hungarian"
- 
- AFG_liberalism:0 "Afghanistan"
- AFG_liberalism_DEF:0 "Afghanistan"
- AFG_liberalism_ADJ:0 "Afghan"
- 
- ARG_liberalism:0 "United Provinces of La Plata"
- ARG_liberalism_DEF:0 "The United Provinces of La Plata"
- ARG_liberalism_ADJ:0 "Argentinean"
- 
- BOL_liberalism:0 "Bolivia"
- BOL_liberalism_DEF:0 "Plurinational Bolivia"
- BOL_liberalism_ADJ:0 "Bolivian"
- 
- BRA_liberalism:0 "Empire of Brazil"
- BRA_liberalism_DEF:0 "The Empire of Brazil"
- BRA_liberalism_ADJ:0 "Brazilian"
- 
- CHL_liberalism:0 "Chile"
- CHL_liberalism_DEF:0 "Chile"
- CHL_liberalism_ADJ:0 "Chilean"
- 
- COS_liberalism:0 "Costa Rica"
- COS_liberalism_DEF:0 "Costa Rica"
- COS_liberalism_ADJ:0 "Costa Rican"
- 
- ECU_liberalism:0 "Ecuador"
- ECU_liberalism_DEF:0 "Ecuador"
- ECU_liberalism_ADJ:0 "Ecuadorian"
- 
- ELS_liberalism:0 "Republic of El Salvador"
- ELS_liberalism_DEF:0 "The Republic of El Salvador"
- ELS_liberalism_ADJ:0 "Salvadoran"
- 
- GUA_liberalism:0 "Republic of Guatemala"
- GUA_liberalism_DEF:0 "The Republic of Guatemala"
- GUA_liberalism_ADJ:0 "Guatemalan"
- 
- HON_liberalism:0 "Honduras"
- HON_liberalism_DEF:0 "Honduras"
- HON_liberalism_ADJ:0 "Honduran"
- 
- IRQ_liberalism:0 "Iraqi Republic"
- IRQ_liberalism_DEF:0 "The Iraqi Republic"
- IRQ_liberalism_ADJ:0 "Iraqi"
- 
- JAP_liberalism:0 "Empire of Japan"
- JAP_liberalism_DEF:0 "The Empire of Japan"
- JAP_liberalism_ADJ:0 "Japanese"
- 
- MEX_liberalism:0 "United Mexican States"
- MEX_liberalism_DEF:0 "The United Mexican States"
- MEX_liberalism_ADJ:0 "Mexican"
- 
- MON_liberalism:0 "Mongolia"
- MON_liberalism_DEF:0 "Mongolia"
- MON_liberalism_ADJ:0 "Mongolian"
- 
- NEP_liberalism:0 "Gorkha"
- NEP_liberalism_DEF:0 "Gorkha"
- NEP_liberalism_ADJ:0 "Gorkha"
- 
- NIC_liberalism:0 "Republic of Nicaragua"
- NIC_liberalism_DEF:0 "The Republic of Nicaragua"
- NIC_liberalism_ADJ:0 "Nicaraguan"
- 
- PAN_liberalism:0 "Panama"
- PAN_liberalism_DEF:0 "Panama"
- PAN_liberalism_ADJ:0 "Panamanian"
- 
- PAR_liberalism:0 "Republic of Paraguay"
- PAR_liberalism_DEF:0 "The Republic of Paraguay"
- PAR_liberalism_ADJ:0 "Paraguayan"
- 
- PER_liberalism:0 "Persia"
- PER_liberalism_DEF:0 "Persia"
- PER_liberalism_ADJ:0 "Persian"
- 
- PHI_liberalism:0 "Philippines"
- PHI_liberalism_DEF:0 "The Philippines"
- PHI_liberalism_ADJ:0 "Philippines"
- 
- PRU_liberalism:0 "Republic of Peru"
- PRU_liberalism_DEF:0 "The Republic of Peru"
- PRU_liberalism_ADJ:0 "Peruvian"
- 
- SAF_liberalism:0 "South Africa"
- SAF_liberalism_DEF:0 "South Africa"
- SAF_liberalism_ADJ:0 "South African"
- 
- SAU_liberalism:0 "Kingdom of Arabia"
- SAU_liberalism_DEF:0 "The Hashemite Kingdom of Arabia"
- SAU_liberalism_ADJ:0 "Arabian"
- 
- SIK_liberalism:0 "Hinkiang Independent Republic"
- SIK_liberalism_DEF:0 "The Hinkiang Independent Republic"
- SIK_liberalism_ADJ:0 "Hinkiang"
- 
- TAN_liberalism:0 "Tuva Independent Republic"
- TAN_liberalism_DEF:0 "The Tuva Independent Republic"
- TAN_liberalism_ADJ:0 "Tuvan"
- 
- TIB_liberalism:0 "Tiberium"
- TIB_liberalism_DEF:0 "Tiberium"
- TIB_liberalism_ADJ:0 "Tibetan"
- 
- VEN_liberalism:0 "Federal Republic of Venezuela"
- VEN_liberalism_DEF:0 "The Federal Republic of Venezuela"
- VEN_liberalism_ADJ:0 "Venezuelan"
- 
- YUN_liberalism:0 "Yunnan Clique"
- YUN_liberalism_DEF:0 "Yunnan Clique"
- YUN_liberalism_ADJ:0 "Chinese"
- 
- AST_liberalism:0 "Australia"
- AST_liberalism_DEF:0 "Australia"
- AST_liberalism_ADJ:0 "Australian"
- 
- NZL_liberalism:0 "Republic of Malet"
- NZL_liberalism_DEF:0 "The Republic of Malet"
- NZL_liberalism_ADJ:0 "Maletian"
- 
- URG_liberalism:0 "Uruguay"
- URG_liberalism_DEF:0 "Uruguay"
- URG_liberalism_ADJ:0 "Uruguayan"
- 
- CUB_liberalism:0 "Cuba"
- CUB_liberalism_DEF:0 "Cuba"
- CUB_liberalism_ADJ:0 "Cuban"
- 
- DOM_liberalism:0 "Dominican Republic"
- DOM_liberalism_DEF:0 "The Dominican Republic"
- DOM_liberalism_ADJ:0 "Dominican"
- 
- HAI_liberalism:0 "Haiti"
- HAI_liberalism_DEF:0 "Haiti"
- HAI_liberalism_ADJ:0 "Haitian"
- 
- OMA_liberalism:0 "Republic of Oman"
- OMA_liberalism_DEF:0 "The Republic of Oman"
- OMA_liberalism_ADJ:0 "Oman"
- 
- YEM_liberalism:0 "Yemen Arab Republic"
- YEM_liberalism_DEF:0 "Yemen Arab Republic"
- YEM_liberalism_ADJ:0 "Yemeni"
- 
- SLO_liberalism:0 "Slovakia"
- SLO_liberalism_DEF:0 "Slovakia"
- SLO_liberalism_ADJ:0 "Slovakian"
- 
- BHU_liberalism:0 "Bhutanese Republic"
- BHU_liberalism_DEF:0 "The Bhutanese Republic"
- BHU_liberalism_ADJ:0 "Bhutanese"
- 
- RAJ_liberalism:0 "Delhi Republic"
- RAJ_liberalism_DEF:0 "The Delhi Republic"
- RAJ_liberalism_ADJ:0 "Indian"
- 
- CRO_liberalism:0 "Republic of Croatia"
- CRO_liberalism_DEF:0 "The Republic of Croatia"
- CRO_liberalism_ADJ:0 "Croatian"
- 
- GXC_liberalism:0 "Guangxi"
- GXC_liberalism_DEF:0 "Guangxi"
- GXC_liberalism_ADJ:0 "Guangxi"
- 
- SHX_liberalism:0 "Shanxi Republic"
- SHX_liberalism_DEF:0 "The Shanxi Republic"
- SHX_liberalism_ADJ:0 "Shanxi"
- 
- XSM_liberalism:0 "Hui"
- XSM_liberalism_DEF:0 "Hui"
- XSM_liberalism_ADJ:0 "Ma"
- 
- KOR_liberalism:0 "Korea"
- KOR_liberalism_DEF:0 "Korea"
- KOR_liberalism_ADJ:0 "Korean"
- 
 
  #Papal State?
  PAP_ultranationalism:0 "Papal States"
@@ -4895,19 +4591,9 @@
  
  #Startland
  
- LUX_progressivism:0 "Luxembourg"
- LUX_progressivism_DEF:0 "Luxembourg"
- LUX_progressivism_ADJ:0 ""
- BEL_progressivism:0 "Flanders"
- BEL_progressivism_DEF:0 "Flanders"
- BEL_progressivism_ADJ:0 "Flemmish"
  HOL_progressivism:0 "Netherlands"
  HOL_progressivism_DEF:0 "The Netherlands"
  HOL_progressivism_ADJ:0 "Netherlanders"
- 
- ARM_progressivism:0 "Armenia"
- ARM_progressivism_DEF:0 "Armenia"
- ARM_progressivism_ADJ:0 "Armenian"
  
  ENG_progressivism:0 "Commonwealth of Britain"
  ENG_progressivism_DEF:0 "the Commonwealth of Britain"

@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ TOTP_NAME:0 "Torch of the Protectorate"
+ TOTP_DESC:0 "Following the ascension of Henry Lawrence to Lord Protector of the Protectorate, it became clear that life without a king would be the new norm. With endurance and reforms through the years, the protectorate adapted while Europe remained petty as always. The empires of old are all that is known, science moves on but the ideals stay stagnant."
+ 
+ centralism_acceptance:0 "Revisionism Acceptance"
+ socialism_acceptance:0 "Socialism Acceptance"
+ progressivism_acceptance:0 "Progressive Acceptance"
+ liberalism_acceptance:0 "Liberal Acceptance"
+ conservatism_acceptance:0 "Conservative Acceptance"
+ republicanism_acceptance:0 "Republican Acceptance"
+ authoritarianism_acceptance:0 "Authoritarian Acceptance"
+ ultranationalism_acceptance:0 "Ultranationalism Acceptance"
+ 
+ socialism_drift:0 "Socialism Drift"
+ centralism_drift:0 "Revisionism Drift"
+ ultranationalism_drift:0 "Ultranationalism Drift"
+ republicanism_drift:0 "Republican Drift"
+ progressivism_drift:0 "Progressive Drift"
+ liberalism_drift:0 "Liberal Drift"
+ conservatism_drift:0 "Conservative Drift"
+ authoritarianism_drift:0 "Authoritarian Drift"
+ 
+ worker_laws:0 "Worker Laws"
+ the_jungle:0 "The Jungle"
+ counter_revolutionary_laws:0 "Counter-Revolutionary Laws"
+ minescule_worker_protection:0 "Minimum Worker Protection"
+ moderate_worker_protection:0 "Moderate Worker Protection"
+ trade_unions_supported:0 "Unions Represented"
+ 
+ militarystaffer_laws:0 "Military Staff Laws"
+ low_end_military_staff:0 "Low End Military Staff"
+ moderate_military_staff:0 "Moderate Military Staff"
+ high_end_military_staff:0 "High End Military Staff"
+ integrated_military_staff:0 "Integrated Military Staff"
+ 
+ corruption_laws:0 "Corruption Laws"
+ acceptable_corruption:0 "Acceptable Corruption"
+ lenient_corruption:0 "Lenient Corruption"
+ minescule_corruption:0 "Miniscule Corruption"
+ anti_corruption_laws:0 "Anti-Corruption Laws"
+ 
+ 

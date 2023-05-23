@@ -851,8 +851,8 @@
   USA_whole_nation_prog_support_medium_tt:0 "§eProgressives will gain a medium amount of popularity across the§! §Gwhole nation§!!"
   USA_whole_nation_prog_support_heavy_tt:0 "§eProgressives will gain a large amount of popularity across the§! §Gwhole nation§!!"
   USA_whole_nation_republican_support_small_tt:0 "§rRepublicans will gain a small amount of popularity across the§! §Gwhole nation§!!"
-  USA_whole_nation_republican_support_tt:0 "§rRepublicans will gain a medium amount of popularity across the§! §Gwhole nation§!!"
-  USA_whole_nation_republican_support_tt:0 "§rRepublicans will gain a large amount of popularity across the§! §Gwhole nation§!!"
+  USA_whole_nation_republican_support_tt_medium:0 "§rRepublicans will gain a medium amount of popularity across the§! §Gwhole nation§!!"
+  USA_whole_nation_republican_support_tt_heavy:0 "§rRepublicans will gain a large amount of popularity across the§! §Gwhole nation§!!"
   
   ## United States Congressional Branch ##
   

@@ -325,8 +325,8 @@
  
  TEMP_RANDOM_TOBEDONE:0 "The result of this event is currently random, it will later be decided by a variable. Get back to work so this can be fixed faster."
  CHI_kou_died:0 "[get.CHI_eduard_secret_death]
- CHI_kou_dead:0 "§RPresident Eduard Kou has died.§!"
- CHI_kou_dead:0 "§GThe Elections have not yet occured.§!"
+ CHI_kou_dead1:0 "§RPresident Eduard Kou has died.§!"
+ CHI_kou_dead2:0 "§GThe Elections have not yet occured.§!"
 
  ## Misc Events ##
 
